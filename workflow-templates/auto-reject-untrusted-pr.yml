@@ -6,6 +6,7 @@ on:
   # To do this, go to your Repository, Settings, Actions, Policies. 
   # New Policy Dropdown, Import a ruleset, 
   # Download & import 'https://github.com/gchq/.github/blob/main/enable-pull_request_target.json'. 
+  # Make sure this workflow is located at ".github/workflows/auto-reject-untrusted-pr.yml". 
   pull_request_target:
 
 permissions:
