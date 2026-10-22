@@ -1,4 +1,4 @@
-name: Auto Reject PRs
+name: Auto Reject Untrusted PRs
 on:
   # Runs against the target of the PR
   # This workflow uses the 'pull_request_target' trigger. 
