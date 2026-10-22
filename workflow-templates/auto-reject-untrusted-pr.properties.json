@@ -1,0 +1,4 @@
+{
+    "name": "Auto Reject Untrusted PRs Workflow",
+    "description": "Automatically reject pull requests from accounts outside the organisation"
+}
